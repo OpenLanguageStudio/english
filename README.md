@@ -1,27 +1,42 @@
 # Open Language - English
 
-The English coursebook from Open Language: concepts, grammar, writing and vocabulary articles, each with sentences to listen to. Anyone can report a problem or suggest a change.
+**Learn English one topic at a time, free. Read it at [english.openlanguage.studio](https://english.openlanguage.studio).**
 
-## Report a problem or ask for an article
+Open Language - English is a free, open coursebook for adults learning English. Each article explains one thing in plain words, then ends with sentences to listen to and repeat aloud. It covers A1 so far, the first steps in English.
 
-Found a wrong example, a typo or a confusing explanation, or missing a topic? [Open an issue](https://github.com/OpenLanguageStudio/english/issues) and choose the form that fits:
+## What is inside
 
-- **Report a problem in an article**: name the page and quote what is wrong.
-- **Request an article**: name the topic and its level.
+- **Concepts**: what to say in an everyday situation, such as greeting someone or ordering a coffee.
+- **Grammar**: how English is built, one topic per page.
+- **Writing**: model emails, messages and postcards, ready to adapt.
+- **Vocabulary**: word packs on one theme, each word used in a sentence.
 
-## Change a page
+Every page stands on its own. Start anywhere, in any order, with no account and no sign-up.
 
-Each article is one Markdown file:
+## About Open Language
 
-```
-<level>/<category>/<name>.md    one article, one topic
-<level>/<category>/index.md     the list of a category's articles
-```
+Open Language makes language courses for adults who learn on their own terms: a short, clear explanation, then the language heard used correctly, again and again. It is built for learning in the gaps of a day, reading in the morning and listening on the way to work.
 
-Levels are `a1` to `b2`. Categories are `concepts`, `grammar`, `writing` and `vocabulary`.
+**The vision** is that anyone can learn a language by reading and listening, in their own time and at their own pace, without a classroom, a streak to protect or a paywall in front of the explanation.
 
-1. Read the [authoring rules](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/authoring-rules.md) and the [page standard](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/page-standard.md). Every article follows them.
-2. Install the tools with [uv](https://docs.astral.sh/uv/): `uv sync`.
-3. Start a new article from its template. `uv run ol templates` lists them, and `uv run ol templates grammar-article.md` prints one.
-4. Check the change with `uv run ol check`, and preview the site with `uv run ol docs`.
-5. Open a pull request. The same checks run on it, and it is merged once they pass and a reviewer has read it.
+**What we hold to:**
+
+- **Free to read.** Every page, at every level, with no account.
+- **Listening first.** Every article ends with sentences to hear, because a language is learned by ear.
+- **Correct, and open to checking.** The source is public, so anyone can see how a page is written and point out a mistake.
+- **No gates.** No locked levels, no required order, no points and no streaks.
+- **One standard for every language.** Each coursebook is built the same way, so a learner who knows one knows them all.
+
+## The coursebooks
+
+- [Open Language - German](https://german.openlanguage.studio) ([source](https://github.com/OpenLanguageStudio/german))
+- [Open Language - English](https://english.openlanguage.studio) ([source](https://github.com/OpenLanguageStudio/english))
+
+## Help make it better
+
+The people who read a coursebook find what its authors miss, and the Open Language team makes the change. The [issue tracker](https://github.com/OpenLanguageStudio/english/issues) is where that starts.
+
+- **Found a mistake?** A wrong example, an unnatural sentence, a typo or an explanation that does not make sense: [report a problem](https://github.com/OpenLanguageStudio/english/issues/new/choose).
+- **Missing a topic?** [Ask for an article](https://github.com/OpenLanguageStudio/english/issues/new/choose), with the topic and its level.
+- **Reading in the app?** Every page has a report button, which sends the report here.
+- **Finding it useful?** Star this repository and share a page with someone learning English. It is how other learners find it.
