@@ -34,7 +34,9 @@ Open Language makes language courses for adults who learn on their own terms: a 
 
 ## Help make it better
 
-The people who read a coursebook find what its authors miss, and the Open Language team makes the change.
+The people who read a coursebook find what its authors miss, and the Open Language team makes the change. The [issue tracker](https://github.com/OpenLanguageStudio/english/issues) is where that starts.
 
-- **Found a mistake?** A wrong example, an unnatural sentence or an explanation that does not make sense: use the report button on the page where it is.
+- **Found a mistake?** A wrong example, an unnatural sentence, a typo or an explanation that does not make sense: [report a problem](https://github.com/OpenLanguageStudio/english/issues/new/choose).
+- **Missing a topic?** [Ask for an article](https://github.com/OpenLanguageStudio/english/issues/new/choose), with the topic and its level.
+- **Reading in the app?** Every page has a report button, which sends the report here.
 - **Finding it useful?** Star this repository and share a page with someone learning English. It is how other learners find it.
