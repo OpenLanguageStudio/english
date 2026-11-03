@@ -1,45 +1,27 @@
 # Open Language - English
 
-The English coursebook from Open Language: grammar, concepts, writing and vocabulary articles, each with listening examples. It starts at A1.
+The English coursebook from Open Language: concepts, grammar, writing and vocabulary articles, each with sentences to listen to. Anyone can report a problem or suggest a change.
 
-## Layout
+## Report a problem or ask for an article
 
-```
-<level>/<category>/         articles, one topic each
-index.md, conf.py           the site's home page and its build settings
-open-language.yml           the language's settings
-glossary-terms.yml          the grammar terms this coursebook adds to the shared list
-```
+Found a wrong example, a typo or a confusing explanation, or missing a topic? [Open an issue](https://github.com/OpenLanguageStudio/english/issues) and choose the form that fits:
 
-Levels are `a1` to `b2`; only `a1` exists so far. Categories are `concepts`, `grammar`, `writing` and `vocabulary`.
+- **Report a problem in an article**: name the page and quote what is wrong.
+- **Request an article**: name the topic and its level.
 
-## Working on the content
+## Change a page
 
-Install with [uv](https://docs.astral.sh/uv/):
+Each article is one Markdown file:
 
 ```
-uv sync
+<level>/<category>/<name>.md    one article, one topic
+<level>/<category>/index.md     the list of a category's articles
 ```
 
-Check everything the way CI does:
+Levels are `a1` to `b2`. Categories are `concepts`, `grammar`, `writing` and `vocabulary`.
 
-```
-uv run ol check
-```
-
-That runs the article checks and a strict build of the site. Build and preview locally with `uv run ol docs`.
-
-New articles start from a template. `uv run ol templates` lists them and `uv run ol templates grammar-article.md` prints one.
-
-## Why this repository exists now
-
-It is the second language repository, after German, so that the `open-language` package can be built and tested for more than one language. Its first job is to show where the package still assumes German. The questions it raises so far:
-
-- **Two languages per coursebook.** Every coursebook has a target language, the one taught, and a coursebook language, the one its prose and translations are written in. In German they are German and English; here both are English. The package only knows the first (`language_code`) and assumes the second is English: the `:title-en:` option, the `Translation` entry in its `CONTEXT.md`, the `english_filename` rule. The app's per-interface-language translations (open-language-app ADR 0004) are a separate question, still to be worked out.
-- **Prose checks per coursebook language.** The checks measure English prose: sentence length, stock openers, the reader addressed as "you". A coursebook written in another language needs them for that language.
-- **Italics in headings.** `ol validate` takes any heading word that appears in the examples but not in the prose as a word of the language taught, and asks for italics. When the target and coursebook languages are the same, ordinary heading words such as *course* or *how* trip it, so some headings here are worded around it.
-- **`lang` attributes.** Authors never declare a language: the `stack` role reads the target language from `open-language.yml` and tags the phrase with it. The translation beneath gets no tag, because the package has no coursebook language to give it.
-
-## Reporting a problem
-
-Found a wrong example, a typo or a confusing explanation? [Open an issue](https://github.com/OpenLanguageStudio/english/issues).
+1. Read the [authoring rules](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/authoring-rules.md) and the [page standard](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/page-standard.md). Every article follows them.
+2. Install the tools with [uv](https://docs.astral.sh/uv/): `uv sync`.
+3. Start a new article from its template. `uv run ol templates` lists them, and `uv run ol templates grammar-article.md` prints one.
+4. Check the change with `uv run ol check`, and preview the site with `uv run ol docs`.
+5. Open a pull request. The same checks run on it, and it is merged once they pass and a reviewer has read it.
