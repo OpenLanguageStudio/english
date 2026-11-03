@@ -1,0 +1,23 @@
+name: Request an article
+description: Suggest a topic the coursebook does not cover yet.
+labels: [needs-triage]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      options: [A1, A2, B1, B2, Not sure]
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would it help with?
+    validations:
+      required: true

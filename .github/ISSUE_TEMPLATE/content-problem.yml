@@ -1,0 +1,36 @@
+name: Report a problem in an article
+description: A wrong example, a typo, a broken link or a confusing explanation.
+labels: [needs-triage]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: Paste the page address or the article title.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      options:
+        - Typo or spelling
+        - Wrong or unnatural English
+        - Wrong translation
+        - Wrong or unclear explanation
+        - Broken link or page
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong?
+      description: Quote the sentence if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should it say?
+      description: Optional. Leave empty if unsure.

@@ -1,0 +1,15 @@
+[project]
+name = "english"
+version = "0.1.0"
+description = "Open Language - English"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "open-language[render] @ git+https://github.com/OpenLanguageStudio/open-language@v0.11.0",
+]
+
+[project.urls]
+homepage = "https://english.openlanguage.studio"
+
+[tool.uv]
+package = false

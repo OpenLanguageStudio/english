@@ -1,0 +1,8 @@
+language: English
+language_code: en
+title: "Open Language - English"
+description: "Learn English with Open Language. Free, open-source, and community-driven language learning resources for all levels."
+author: "Open Language Team"
+
+# Presenters (the voices that speak the tracks) live in the Open Language app,
+# which is their only source of truth. None are kept here.

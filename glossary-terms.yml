@@ -1,0 +1,20 @@
+# The grammar terms of the English coursebook, on top of the shared list in
+# ol/authoring/glossary-terms.yml in the open-language package. Each has one
+# entry on the Terminology page, and the first use of it in an article's prose
+# is written with the {term} role.
+#
+# Matching is literal, so a word with an everyday meaning stays off the list.
+
+terms:
+  # Articles
+  - definite article
+  - indefinite article
+
+  # Nouns
+  - countable noun
+  - uncountable noun
+
+  # Verbs
+  - auxiliary verb
+  - term: contraction
+    forms: [contracted]
