@@ -48,12 +48,12 @@ Are you free in June? Come and visit me! Bristol is great in the summer.
 Write soon!
 Love,
 Sophie
-: Betreff: Meine neue Wohnung.
-: Hallo Tom,
-: wie geht es dir? Ich bin jetzt in meiner neuen Wohnung in Bristol! Sie ist klein, aber sehr schön. Die Küche ist neu, und im Wohnzimmer gibt es ein großes Fenster. Meine Nachbarn sind freundlich. Ich arbeite in der Nähe der Wohnung, also gehe ich jeden Tag zu Fuß zur Arbeit.
-: Hast du im Juni Zeit? Komm mich besuchen! Bristol ist im Sommer toll.
-: Schreib bald!
-: Alles Liebe,
+: Subject: My new flat.
+: Hello Tom,
+: How are you? I am in my new flat in Bristol now! It is small, but it is very nice. The kitchen is new and there is a big window in the living room. My neighbours are friendly. I work near the flat, so I walk to work every day.
+: Do you have time in June? Please come and visit me! Bristol is very nice in the summer.
+: Please write to me soon!
+: With love,
 : Sophie
 :::
 
@@ -63,16 +63,16 @@ The informal frame, ready to reuse with any news:
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Hi Tom, \| Hallo Tom,` | greeting, with a comma after the name |
-| {stack}`Hello Anna, \| Hallo Anna,` | a little less casual than *Hi* |
-| {stack}`How are you? \| Wie geht es dir?` | the usual first line |
-| {stack}`Thanks for your email! \| Danke für deine E-Mail!` | when replying |
-| {stack}`I'm in … now. \| Ich bin jetzt in …` | for news about a place |
-| {stack}`Are you free in …? \| Hast du im … Zeit?` | to make a plan |
-| {stack}`Write soon! \| Schreib bald!` | closing line |
-| {stack}`See you soon! \| Bis bald!` | closing line |
-| {stack}`Love, \| Alles Liebe,` | close friends and family |
-| {stack}`Best wishes, \| Viele Grüße,` | any friend |
+| {stack}`Hi Tom, \| Hello Tom (casual)` | greeting, with a comma after the name |
+| {stack}`Hello Anna, \| Hello Anna,` | a little less casual than *Hi* |
+| {stack}`How are you? \| How are you?` | the usual first line |
+| {stack}`Thanks for your email! \| Thank you for your email!` | when replying |
+| {stack}`I'm in … now. \| I am in … now.` | for news about a place |
+| {stack}`Are you free in …? \| Do you have time in …?` | to make a plan |
+| {stack}`Write soon! \| Please write to me soon!` | closing line |
+| {stack}`See you soon! \| I hope to see you soon!` | closing line |
+| {stack}`Love, \| With love (a warm goodbye)` | close friends and family |
+| {stack}`Best wishes, \| I wish you well (a friendly goodbye)` | any friend |
 
 ## Summary
 

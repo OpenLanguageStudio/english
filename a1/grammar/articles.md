@@ -12,7 +12,7 @@ myst:
 
 English has three articles: *a*, *an* and *the*. They come before a {term}`noun` and say whether it is new or already known.
 
-The {term}`indefinite article` *a* or *an* marks one thing that is new or not specific: *a sandwich*. The {term}`definite article` *the* marks something specific or already known: *the sandwich on the table*. Unlike German, English articles never change for gender or case, so *the* covers *der*, *die* and *das*. The choice between *a* and *an* depends only on the first sound of the next word. A general {term}`plural` or an {term}`uncountable noun` often takes no article at all.
+The {term}`indefinite article` *a* or *an* marks one thing that is new or not specific: *a sandwich*. The {term}`definite article` *the* marks something specific or already known: *the sandwich on the table*. English articles never change for the noun, so *the* fits every noun, one or many. The choice between *a* and *an* depends only on the first sound of the next word. A general {term}`plural` or an {term}`uncountable noun` often takes no article at all.
 
 ## *A* or *an*: the first sound decides
 
@@ -27,13 +27,13 @@ The {term}`indefinite article` *a* or *an* marks one thing that is new or not sp
 
 :::{div} ol-examples
 I'd like {article}`a` coffee.
-: Ich hätte gern einen Kaffee.
+: I would like one coffee, please.
 
 She eats {article}`an` apple.
-: Sie isst einen Apfel.
+: She eats an apple.
 
 We have {article}`an` hour.
-: Wir haben eine Stunde.
+: We have an hour.
 :::
 
 ## *The* for specific or known things
@@ -44,13 +44,13 @@ We have {article}`an` hour.
 
 :::{div} ol-examples
 I have {article}`a` dog. {article}`The` dog is called Max.
-: Ich habe einen Hund. Der Hund heißt Max.
+: I have a dog. That dog is called Max.
 
 Where is {article}`the` station?
-: Wo ist der Bahnhof?
+: Where is the station (in this town)?
 
 {article}`The` sun is hot today.
-: Die Sonne ist heute heiß.
+: The sun is hot today.
 :::
 
 :::{note}
@@ -59,19 +59,19 @@ Where is {article}`the` station?
 
 ## No article for things in general
 
-A plural or an uncountable noun in a general statement takes no article. German often leaves the article out here too. Some general statements take *der*, *die* or *das* in German but no article in English: *Das Leben ist schön* is *Life is beautiful*.
+A plural or an uncountable noun in a general statement takes no article. This holds for ideas too: *Life is beautiful*, never *The life is beautiful*.
 
 **Examples:**
 
 :::{div} ol-examples
 I like dogs.
-: Ich mag Hunde.
+: I like dogs in general.
 
 Milk is good for children.
-: Milch ist gut für Kinder.
+: Milk is good for children.
 
 Life is beautiful.
-: Das Leben ist schön.
+: Life in general is beautiful.
 :::
 
 :::{admonition} Common mistakes
@@ -92,64 +92,64 @@ Life is beautiful.
 :tags: articles
 
 I'd like a coffee.
-: Ich hätte gern einen Kaffee.
+: I would like one coffee, please.
 
 She's a teacher.
-: Sie ist Lehrerin.
+: She is a teacher.
 
 He has a car.
-: Er hat ein Auto.
+: He has a car.
 
 She eats an apple.
-: Sie isst einen Apfel.
+: She eats an apple.
 
 I need an umbrella.
-: Ich brauche einen Regenschirm.
+: I need an umbrella.
 
 We have an hour.
-: Wir haben eine Stunde.
+: We have an hour.
 
 It's a university.
-: Das ist eine Universität.
+: It is a university.
 
 I have a dog. The dog is called Max.
-: Ich habe einen Hund. Der Hund heißt Max.
+: I have a dog. That dog is called Max.
 
 Where is the station?
-: Wo ist der Bahnhof?
+: Where is the station (in this town)?
 
 The sun is hot today.
-: Die Sonne ist heute heiß.
+: The sun is hot today.
 
 The coffee is cold.
-: Der Kaffee ist kalt.
+: The coffee is cold.
 
 Can you close the window?
-: Kannst du das Fenster zumachen?
+: Please close the window.
 
 The children are in the garden.
-: Die Kinder sind im Garten.
+: The children are in the garden.
 
 I like dogs.
-: Ich mag Hunde.
+: I like dogs in general.
 
 Milk is good for children.
-: Milch ist gut für Kinder.
+: Milk is good for children.
 
 Life is beautiful.
-: Das Leben ist schön.
+: Life in general is beautiful.
 
 She drinks tea in the morning.
-: Sie trinkt morgens Tee.
+: She drinks tea in the morning.
 
 There's an egg in the fridge.
-: Im Kühlschrank ist ein Ei.
+: There is one egg in the fridge.
 
 The eggs are in the fridge.
-: Die Eier sind im Kühlschrank.
+: The eggs are in the fridge.
 
 He's an engineer.
-: Er ist Ingenieur.
+: He is an engineer.
 :::
 
 ## Summary

@@ -12,7 +12,7 @@ myst:
 
 Greetings in English start with *hello* or *hi*, and farewells end with *goodbye* or *bye*. Between them sits one short question, *How are you?*, which expects an equally short answer.
 
-English has no formal and informal *you*, so the choice of greeting does the work that *du* and *Sie* do in German. *Hello* and *good morning* fit almost anyone, while *hi* and *see you* belong with friends and colleagues. *How are you?* is a greeting more than a real question. The usual answer is *Fine, thanks*, followed by *And you?*
+English has one *you* for everyone, so the choice of greeting is what makes it formal or casual. *Hello* and *good morning* fit almost anyone, while *hi* and *see you* belong with friends and colleagues. *How are you?* is a greeting more than a real question. The usual answer is *Fine, thanks*, followed by *And you?*
 
 ## When to use it
 
@@ -27,31 +27,31 @@ English has no formal and informal *you*, so the choice of greeting does the wor
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Hello. \| Hallo. / Guten Tag.` | fits almost anyone |
-| {stack}`Hi. \| Hi. / Hallo.` | friends, colleagues, shops |
-| {stack}`Good morning. \| Guten Morgen.` | until about noon |
-| {stack}`Good afternoon. \| Guten Tag.` | noon to about six, a little formal |
-| {stack}`Good evening. \| Guten Abend.` | arriving in the evening, never leaving |
+| {stack}`Hello. \| Hello.` | fits almost anyone |
+| {stack}`Hi. \| Hello. (casual)` | friends, colleagues, shops |
+| {stack}`Good morning. \| Good morning.` | until about noon |
+| {stack}`Good afternoon. \| Good afternoon.` | noon to about six, a little formal |
+| {stack}`Good evening. \| Good evening.` | arriving in the evening, never leaving |
 
 ### Small talk
 
 | Phrase | Notes |
 |---|---|
-| {stack}`How are you? \| Wie geht es Ihnen? / Wie geht's?` | formal and casual |
-| {stack}`Fine, thanks. And you? \| Gut, danke. Und Ihnen? / Und dir?` | the usual answer |
-| {stack}`Not bad. \| Nicht schlecht.` | casual, means fine |
-| {stack}`How's it going? \| Wie läuft's?` | casual |
+| {stack}`How are you? \| How are you?` | formal and casual |
+| {stack}`Fine, thanks. And you? \| I am fine, thank you. How are you?` | the usual answer |
+| {stack}`Not bad. \| I am fine.` | casual, means fine |
+| {stack}`How's it going? \| How are you?` | casual |
 
 ### Saying goodbye
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Goodbye. \| Auf Wiedersehen.` | fits anyone, a little formal |
-| {stack}`Bye. \| Tschüss.` | the everyday farewell |
-| {stack}`See you later. \| Bis später.` | casual |
-| {stack}`See you tomorrow. \| Bis morgen.` | casual |
-| {stack}`Have a nice day. \| Schönen Tag noch.` | shops and cafés |
-| {stack}`Good night. \| Gute Nacht.` | leaving at night, or going to bed |
+| {stack}`Goodbye. \| Goodbye.` | fits anyone, a little formal |
+| {stack}`Bye. \| Goodbye. (casual)` | the everyday farewell |
+| {stack}`See you later. \| I will see you later today.` | casual |
+| {stack}`See you tomorrow. \| I will see you tomorrow.` | casual |
+| {stack}`Have a nice day. \| I hope your day is nice.` | shops and cafés |
+| {stack}`Good night. \| Goodbye, at night.` | leaving at night, or going to bed |
 
 ## *Good evening* or *good night*
 
@@ -61,13 +61,13 @@ English has no formal and informal *you*, so the choice of greeting does the wor
 
 :::{div} ol-examples
 Good evening. A table for two, please.
-: Guten Abend. Einen Tisch für zwei, bitte.
+: Good evening. We would like a table for two people, please.
 
 Good night. See you tomorrow.
-: Gute Nacht. Bis morgen.
+: Goodbye for tonight. I will see you tomorrow.
 
 Bye, Tom. Have a nice evening.
-: Tschüss, Tom. Schönen Abend noch.
+: Goodbye, Tom. I hope your evening is nice.
 :::
 
 ## Culture note
@@ -83,67 +83,67 @@ Bye, Tom. Have a nice evening.
 :tags: greetings, farewells
 
 Hello.
-: Hallo.
+: Hello.
 
 Hi, Anna.
 : Hi, Anna.
 
 Good morning.
-: Guten Morgen.
+: Good morning.
 
 Good afternoon.
-: Guten Tag.
+: Good afternoon.
 
 Good evening.
-: Guten Abend.
+: Good evening.
 
 How are you?
-: Wie geht es dir?
+: How are you?
 
 Fine, thanks. And you?
-: Gut, danke. Und dir?
+: I am fine, thank you. How are you?
 
 I'm very well, thank you.
-: Mir geht es sehr gut, danke.
+: I am very well, thank you.
 
 Not bad.
-: Nicht schlecht.
+: I am fine.
 
 How's it going?
-: Wie läuft's?
+: How are you? (casual)
 
 You all right?
-: Alles klar?
+: Hello, how are you? (British, casual)
 
 Yes, fine, thanks.
-: Ja, alles gut, danke.
+: Yes, I am fine, thank you.
 
 Nice to see you.
-: Schön, dich zu sehen.
+: I am happy to see you.
 
 Goodbye.
-: Auf Wiedersehen.
+: Goodbye.
 
 Bye.
-: Tschüss.
+: Goodbye. (casual)
 
 See you later.
-: Bis später.
+: I will see you later today.
 
 See you tomorrow.
-: Bis morgen.
+: I will see you tomorrow.
 
 See you on Monday.
-: Bis Montag.
+: I will see you on Monday.
 
 Have a nice day.
-: Schönen Tag noch.
+: I hope your day is nice.
 
 Thanks, you too.
-: Danke, gleichfalls.
+: Thank you. I hope your day is nice too.
 
 Good night.
-: Gute Nacht.
+: Goodbye, at night.
 :::
 
 ## Summary

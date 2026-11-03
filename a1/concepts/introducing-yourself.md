@@ -12,7 +12,7 @@ myst:
 
 Introducing yourself in English rests on five short sentences: name, origin, home, job and age. The same five come back as questions, and *Nice to meet you* closes the exchange.
 
-Four of the sentences use the {term}`verb` *be*: *I'm Anna*, *I'm from Germany*, *I'm a nurse* and *I'm thirty*. Only home takes another verb, *live*: *I live in Leeds*. The questions turn the same sentences around with a {term}`question word`, such as *What's your name?* or *Where are you from?* A job always takes *a* or *an* in front of it, unlike in German.
+Four of the sentences use the {term}`verb` *be*: *I'm Anna*, *I'm from Germany*, *I'm a nurse* and *I'm thirty*. Only home takes another verb, *live*: *I live in Leeds*. The questions turn the same sentences around with a {term}`question word`, such as *What's your name?* or *Where are you from?* A job always takes *a* or *an* in front of it.
 
 ## When to use it
 
@@ -26,22 +26,22 @@ Four of the sentences use the {term}`verb` *be*: *I'm Anna*, *I'm from Germany*,
 
 | Phrase | Notes |
 |---|---|
-| {stack}`I'm … \| Ich bin …` | the most common opener |
-| {stack}`My name is … \| Ich heiße … / Mein Name ist …` | a little more formal |
-| {stack}`I'm from … \| Ich komme aus …` | country or city |
-| {stack}`I live in … \| Ich wohne in …` | city or district |
-| {stack}`I'm a … \| Ich bin …` | a job, always with *a* or *an* |
-| {stack}`I'm … years old. \| Ich bin … Jahre alt.` | *years old* is often left out |
+| {stack}`I'm … \| My name is …` | the most common opener |
+| {stack}`My name is … \| My name is …` | a little more formal |
+| {stack}`I'm from … \| I come from …` | country or city |
+| {stack}`I live in … \| My home is in …` | city or district |
+| {stack}`I'm a … \| My job is …` | a job, always with *a* or *an* |
+| {stack}`I'm … years old. \| My age is …` | *years old* is often left out |
 
 ### Asking and replying
 
 | Phrase | Notes |
 |---|---|
-| {stack}`What's your name? \| Wie heißt du? / Wie heißen Sie?` | |
-| {stack}`Where are you from? \| Woher kommst du?` | |
-| {stack}`What do you do? \| Was machst du beruflich?` | asks about a job |
-| {stack}`Nice to meet you. \| Freut mich.` | after the first introduction |
-| {stack}`Nice to meet you too. \| Freut mich auch.` | the fixed reply |
+| {stack}`What's your name? \| What is your name?` | |
+| {stack}`Where are you from? \| What country or city do you come from?` | |
+| {stack}`What do you do? \| What is your job?` | asks about a job |
+| {stack}`Nice to meet you. \| I am happy to meet you.` | after the first introduction |
+| {stack}`Nice to meet you too. \| I am happy to meet you too.` | the fixed reply |
 
 ## The five sentences
 
@@ -51,13 +51,13 @@ Four of the sentences use the {term}`verb` *be*: *I'm Anna*, *I'm from Germany*,
 
 :::{div} ol-examples
 I'm Anna. I'm from Germany.
-: Ich bin Anna. Ich komme aus Deutschland.
+: My name is Anna. I come from Germany.
 
 I live in Leeds.
-: Ich wohne in Leeds.
+: My home is in Leeds.
 
 I'm a nurse, and I'm thirty.
-: Ich bin Krankenschwester, und ich bin dreißig.
+: My job is nurse, and I am thirty years old.
 :::
 
 ## Asking the questions back
@@ -68,13 +68,13 @@ A conversation goes both ways. The quickest way to return any question is *And y
 
 :::{div} ol-examples
 Where are you from? I'm from Spain.
-: Woher kommst du? Ich komme aus Spanien.
+: What country do you come from? I come from Spain.
 
 What do you do? I'm a student.
-: Was machst du beruflich? Ich bin Student.
+: What is your job? I am a student.
 
 How old are you? I'm twenty-two. And you?
-: Wie alt bist du? Ich bin zweiundzwanzig. Und du?
+: What is your age? I am twenty-two years old. How old are you?
 :::
 
 ## Hear it in practice
@@ -86,70 +86,70 @@ How old are you? I'm twenty-two. And you?
 :tags: introductions, be
 
 Hello, I'm Anna.
-: Hallo, ich bin Anna.
+: Hello, my name is Anna.
 
 My name is Tom Baker.
-: Ich heiße Tom Baker.
+: My name is Tom Baker.
 
 I'm from Germany.
-: Ich komme aus Deutschland.
+: I come from Germany.
 
 I'm from Berlin.
-: Ich komme aus Berlin.
+: I come from Berlin.
 
 I live in Leeds.
-: Ich wohne in Leeds.
+: My home is in Leeds.
 
 I'm a nurse.
-: Ich bin Krankenschwester.
+: My job is nurse.
 
 I'm an engineer.
-: Ich bin Ingenieur.
+: My job is engineer.
 
 I'm thirty.
-: Ich bin dreißig.
+: I am thirty years old.
 
 I'm twenty-five years old.
-: Ich bin fünfundzwanzig Jahre alt.
+: I am twenty-five years old.
 
 What's your name?
-: Wie heißt du?
+: What is your name?
 
 Where are you from?
-: Woher kommst du?
+: What country or city do you come from?
 
 I'm from Spain.
-: Ich komme aus Spanien.
+: I come from Spain.
 
 Where do you live?
-: Wo wohnst du?
+: Where is your home?
 
 I live in London.
-: Ich wohne in London.
+: My home is in London.
 
 What do you do?
-: Was machst du beruflich?
+: What is your job?
 
 I'm a student.
-: Ich bin Student.
+: I am a student.
 
 How old are you?
-: Wie alt bist du?
+: What is your age?
 
 And you?
-: Und du?
+: And what about you?
 
 Nice to meet you.
-: Freut mich.
+: I am happy to meet you.
 
 Nice to meet you too.
-: Freut mich auch.
+: I am happy to meet you too.
 
 I speak German and a little English.
-: Ich spreche Deutsch und ein bisschen Englisch.
+: I speak German and a little English.
 
 I'm new here.
-: Ich bin neu hier.
+: I am new here.
 :::
 
 ## Summary

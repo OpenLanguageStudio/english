@@ -27,26 +27,26 @@ A café visit follows a short, predictable script. The staff ask *What can I get
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Can I have a coffee, please? \| Kann ich einen Kaffee haben, bitte?` | the most common order |
-| {stack}`I'd like a cheese sandwich, please. \| Ich hätte gern ein Käsesandwich.` | a little more formal |
-| {stack}`A tea, please. \| Einen Tee, bitte.` | short and fine at a counter |
-| {stack}`Could I see the menu, please? \| Könnte ich die Karte sehen?` | |
+| {stack}`Can I have a coffee, please? \| I would like a coffee, please.` | the most common order |
+| {stack}`I'd like a cheese sandwich, please. \| I would like a cheese sandwich, please.` | a little more formal |
+| {stack}`A tea, please. \| I would like a tea, please.` | short and fine at a counter |
+| {stack}`Could I see the menu, please? \| Please give me the menu.` | |
 
 ### Questions from the staff
 
 | Phrase | Notes |
 |---|---|
-| {stack}`What can I get you? \| Was darf es sein?` | the usual opening |
-| {stack}`Anything else? \| Sonst noch etwas?` | *No, that's all, thanks.* |
-| {stack}`Eat in or take away? \| Zum Hieressen oder zum Mitnehmen?` | American English: *for here or to go* |
+| {stack}`What can I get you? \| What would you like?` | the usual opening |
+| {stack}`Anything else? \| Would you like anything more?` | *No, that's all, thanks.* |
+| {stack}`Eat in or take away? \| Do you want to eat here or take it with you?` | American English: *for here or to go* |
 
 ### Paying
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Can I have the bill, please? \| Kann ich die Rechnung haben?` | American English: *the check* |
-| {stack}`Can I pay by card? \| Kann ich mit Karte zahlen?` | |
-| {stack}`How much is it? \| Wie viel kostet das?` | |
+| {stack}`Can I have the bill, please? \| I would like to pay now, please.` | American English: *the check* |
+| {stack}`Can I pay by card? \| Can I pay by card?` | |
+| {stack}`How much is it? \| What is the price?` | |
 
 ## Answering the staff
 
@@ -56,13 +56,13 @@ The staff's questions need only short answers. *Yes, please* and *No, thanks* do
 
 :::{div} ol-examples
 Anything else? No, that's all, thanks.
-: Sonst noch etwas? Nein, das ist alles, danke.
+: Would you like anything more? No, I do not want anything more, thank you.
 
 Small or large? Large, please.
-: Klein oder groß? Groß, bitte.
+: Do you want a small one or a large one? A large one, please.
 
 Eat in or take away? Take away, please.
-: Zum Hieressen oder zum Mitnehmen? Zum Mitnehmen, bitte.
+: Do you want to eat here or take it with you? I want to take it with me, please.
 :::
 
 ## Culture note
@@ -78,67 +78,67 @@ In a British pub, nobody comes to the table: drinks are ordered and paid for at 
 :tags: ordering, food, drink
 
 What can I get you?
-: Was darf es sein?
+: What would you like?
 
 Can I have a coffee, please?
-: Kann ich einen Kaffee haben, bitte?
+: I would like a coffee, please.
 
 A tea with milk, please.
-: Einen Tee mit Milch, bitte.
+: I would like a tea with milk, please.
 
 I'd like a cheese sandwich, please.
-: Ich hätte gern ein Käsesandwich.
+: I would like a cheese sandwich, please.
 
 Could I see the menu, please?
-: Könnte ich die Karte sehen, bitte?
+: Please give me the menu.
 
 Two orange juices, please.
-: Zwei Orangensäfte, bitte.
+: I would like two orange juices, please.
 
 Small or large?
-: Klein oder groß?
+: Do you want a small one or a large one?
 
 Large, please.
-: Groß, bitte.
+: A large one, please.
 
 Eat in or take away?
-: Zum Hieressen oder zum Mitnehmen?
+: Do you want to eat here or take it with you?
 
 Take away, please.
-: Zum Mitnehmen, bitte.
+: I want to take it with me, please.
 
 Anything else?
-: Sonst noch etwas?
+: Would you like anything more?
 
 No, that's all, thanks.
-: Nein, das ist alles, danke.
+: No, I do not want anything more, thank you.
 
 Can I have a glass of water, please?
-: Kann ich ein Glas Wasser haben, bitte?
+: I would like a glass of water, please.
 
 I'd like the soup, please.
-: Ich hätte gern die Suppe.
+: I would like the soup, please.
 
 How much is it?
-: Wie viel kostet das?
+: What is the price?
 
 That's six pounds fifty.
-: Das macht sechs Pfund fünfzig.
+: The price is six pounds and fifty pence.
 
 Can I pay by card?
-: Kann ich mit Karte zahlen?
+: Can I pay by card?
 
 Can I have the bill, please?
-: Kann ich die Rechnung haben, bitte?
+: I would like to pay now, please.
 
 Here you are.
-: Bitte schön.
+: Take this, please. (when giving something)
 
 Thank you very much.
-: Vielen Dank.
+: Thank you very much.
 
 Cheers.
-: Danke.
+: Thank you. (British, casual)
 :::
 
 ## Summary

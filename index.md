@@ -3,12 +3,12 @@ title: "Home"
 html_theme.sidebar_secondary.remove:
 myst:
   html_meta:
-    description: "Open Language - English: a free, open coursebook of English grammar, concepts, writing and vocabulary, with listening examples and German translations."
+    description: "Open Language - English: a free, open coursebook of English grammar, concepts, writing and vocabulary, with listening examples."
     keywords: "english, english learning, learn english, english grammar, a1, beginner english"
 ---
 # Introduction
 
-Open Language - English is a free, open coursebook for adults learning English. It explains how the language works one topic at a time, in plain words, with short example sentences and their German translations. Anyone can read it, report a problem or suggest a change.
+Open Language - English is a free, open coursebook for adults learning English. It explains how the language works one topic at a time, in plain words, with short example sentences and their meanings in plain English. Anyone can read it, report a problem or suggest a change.
 
 ## How the course works
 

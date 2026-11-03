@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    description: "A1 vocabulary: in the supermarket 1. Everyday English food words for a shopping list, with countable and uncountable nouns and German translations."
+    description: "A1 vocabulary: in the supermarket 1. Everyday English food words for a shopping list,, with countable and uncountable nouns."
     keywords: "english, a1, vocabulary, supermarket, food words in english, shopping list, bread, milk, eggs, some, any"
     "property=og:title": "In the Supermarket 1"
-    "property=og:description": "A1 vocabulary: in the supermarket 1. Everyday English food words for a shopping list, with countable and uncountable nouns and German translations."
+    "property=og:description": "A1 vocabulary: in the supermarket 1. Everyday English food words for a shopping list,, with countable and uncountable nouns."
     "property=og:type": "article"
     author: "Open Language - English"
 ---
@@ -18,19 +18,19 @@ Some food words count. *An egg*, *two eggs* and *an apple*, *three apples* are e
 
 | Word | Notes |
 |---|---|
-| {stack}`bread \| das Brot` | uncountable; *a loaf of bread* |
-| {stack}`milk \| die Milch` | uncountable; *a bottle of milk* |
-| {stack}`cheese \| der Käse` | uncountable |
-| {stack}`butter \| die Butter` | uncountable |
-| {stack}`rice \| der Reis` | uncountable; *a bag of rice* |
-| {stack}`an egg \| das Ei` | plural *eggs*; *an* before a vowel sound |
-| {stack}`an apple \| der Apfel` | plural *apples* |
-| {stack}`a banana \| die Banane` | plural *bananas* |
-| {stack}`a tomato \| die Tomate` | plural *tomatoes* |
-| {stack}`a potato \| die Kartoffel` | plural *potatoes* |
-| {stack}`a biscuit \| der Keks` | plural *biscuits*; American English *a cookie* |
-| {stack}`a bottle \| die Flasche` | plural *bottles* |
-| {stack}`a basket \| der Einkaufskorb` | plural *baskets* |
+| {stack}`bread \| food made from flour and baked` | uncountable; *a loaf of bread* |
+| {stack}`milk \| the white drink from cows` | uncountable; *a bottle of milk* |
+| {stack}`cheese \| a solid food made from milk` | uncountable |
+| {stack}`butter \| a yellow fat made from milk` | uncountable |
+| {stack}`rice \| small white grains, cooked in water` | uncountable; *a bag of rice* |
+| {stack}`an egg \| what a chicken lays` | plural *eggs*; *an* before a vowel sound |
+| {stack}`an apple \| a round red or green fruit` | plural *apples* |
+| {stack}`a banana \| a long yellow fruit` | plural *bananas* |
+| {stack}`a tomato \| a soft red fruit for salads` | plural *tomatoes* |
+| {stack}`a potato \| a vegetable that grows under the ground` | plural *potatoes* |
+| {stack}`a biscuit \| a small, flat, sweet baked snack` | plural *biscuits*; American English *a cookie* |
+| {stack}`a bottle \| a tall container for drinks` | plural *bottles* |
+| {stack}`a basket \| a container to carry the shopping` | plural *baskets* |
 
 ## *Some* and *any*
 
@@ -47,58 +47,58 @@ The sentences follow a shopping trip: the list at home, the aisles, and the bask
 :tags: food, shopping
 
 We need some bread.
-: Wir brauchen Brot.
+: We need some bread.
 
 I buy a loaf of bread every day.
-: Ich kaufe jeden Tag ein Brot.
+: I buy a loaf of bread every day.
 
 Is there any milk in the fridge?
-: Ist noch Milch im Kühlschrank?
+: Is there any milk in the fridge?
 
 A bottle of milk, please.
-: Eine Flasche Milch, bitte.
+: A bottle of milk, please.
 
 The cheese is over there.
-: Der Käse ist dort drüben.
+: The cheese is over there.
 
 I'd like some butter, too.
-: Ich hätte gern auch Butter.
+: I'd like some butter, too.
 
 Rice is in aisle four.
-: Reis ist in Gang vier.
+: Rice is in aisle four.
 
 We don't have any eggs.
-: Wir haben keine Eier.
+: We don't have any eggs.
 
 I need six eggs for the cake.
-: Ich brauche sechs Eier für den Kuchen.
+: I need six eggs for the cake.
 
 An apple a day.
-: Ein Apfel am Tag.
+: An apple every day keeps you healthy.
 
 The apples are very cheap today.
-: Die Äpfel sind heute sehr billig.
+: The apples are very cheap today.
 
 The bananas are still green.
-: Die Bananen sind noch grün.
+: The bananas are still green.
 
 How much are the tomatoes?
-: Wie viel kosten die Tomaten?
+: How much are the tomatoes?
 
 A kilo of potatoes, please.
-: Ein Kilo Kartoffeln, bitte.
+: A kilo of potatoes, please.
 
 The children love these biscuits.
-: Die Kinder lieben diese Kekse.
+: The children love these biscuits.
 
 A bottle of water costs one pound.
-: Eine Flasche Wasser kostet ein Pfund.
+: A bottle of water costs one pound.
 
 Take a basket at the door.
-: Nimm am Eingang einen Einkaufskorb.
+: Take a basket at the door.
 
 My basket is full.
-: Mein Einkaufskorb ist voll.
+: My basket is full.
 :::
 
 ## Summary

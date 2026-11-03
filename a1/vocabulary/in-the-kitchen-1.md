@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    description: "A1 vocabulary: in the kitchen 1. English kitchen words from table to cooker, the table setting, and the verb cook, with German translations."
+    description: "A1 vocabulary: in the kitchen 1. English kitchen words from table to cooker, the table setting, and the verb cook."
     keywords: "english, a1, vocabulary, kitchen, kitchen words in english, plate, cup, knife, fork, spoon, cook"
     "property=og:title": "In the Kitchen 1"
-    "property=og:description": "A1 vocabulary: in the kitchen 1. English kitchen words from table to cooker, the table setting, and the verb cook, with German translations."
+    "property=og:description": "A1 vocabulary: in the kitchen 1. English kitchen words from table to cooker, the table setting, and the verb cook."
     "property=og:type": "article"
     author: "Open Language - English"
 ---
@@ -18,18 +18,18 @@ The words fall into three groups: the furniture, the table setting and the thing
 
 | Word | Notes |
 |---|---|
-| {stack}`a table \| der Tisch` | plural *tables* |
-| {stack}`a chair \| der Stuhl` | plural *chairs* |
-| {stack}`a plate \| der Teller` | plural *plates* |
-| {stack}`a cup \| die Tasse` | plural *cups*; for tea or coffee |
-| {stack}`a glass \| das Glas` | plural *glasses* |
-| {stack}`a knife \| das Messer` | plural *knives*; the *k* is silent |
-| {stack}`a fork \| die Gabel` | plural *forks* |
-| {stack}`a spoon \| der Löffel` | plural *spoons* |
-| {stack}`a pan \| der Topf, die Pfanne` | plural *pans*; also *a saucepan* |
-| {stack}`a fridge \| der Kühlschrank` | plural *fridges* |
-| {stack}`a cooker \| der Herd` | plural *cookers*; American English *a stove* |
-| {stack}`to cook \| kochen` | *she cooks* |
+| {stack}`a table \| a piece of furniture to eat or work at` | plural *tables* |
+| {stack}`a chair \| a seat for one person` | plural *chairs* |
+| {stack}`a plate \| a flat dish for food` | plural *plates* |
+| {stack}`a cup \| a small bowl with a handle, for drinks` | plural *cups*; for tea or coffee |
+| {stack}`a glass \| a container for drinks, made of glass` | plural *glasses* |
+| {stack}`a knife \| a tool for cutting food` | plural *knives*; the *k* is silent |
+| {stack}`a fork \| a tool with points, for picking up food` | plural *forks* |
+| {stack}`a spoon \| a tool with a small bowl, for soup` | plural *spoons* |
+| {stack}`a pan \| a metal pot for cooking` | plural *pans*; also *a saucepan* |
+| {stack}`a fridge \| a cold box that keeps food fresh` | plural *fridges* |
+| {stack}`a cooker \| the machine with hot plates and an oven` | plural *cookers*; American English *a stove* |
+| {stack}`to cook \| to make food hot to eat it` | *she cooks* |
 
 ## Words that change in the plural
 
@@ -46,64 +46,64 @@ The sentences walk through the kitchen the way an evening does: laying the table
 :tags: kitchen, home
 
 The table is in the kitchen.
-: Der Tisch steht in der Küche.
+: The table is in the kitchen.
 
 We need four chairs.
-: Wir brauchen vier Stühle.
+: We need four chairs.
 
 The plate is still hot.
-: Der Teller ist noch heiß.
+: The plate is still hot.
 
 The plates are on the table.
-: Die Teller stehen auf dem Tisch.
+: The plates are on the table.
 
 My cup is full.
-: Meine Tasse ist voll.
+: My cup is full.
 
 I drink coffee from a big cup.
-: Ich trinke Kaffee aus einer großen Tasse.
+: I drink coffee from a big cup.
 
 The glass is empty.
-: Das Glas ist leer.
+: The glass is empty.
 
 The glasses are new.
-: Die Gläser sind neu.
+: The glasses are new.
 
 This knife is sharp.
-: Dieses Messer ist scharf.
+: This knife is sharp.
 
 The knives are in the drawer.
-: Die Messer sind in der Schublade.
+: The knives are in the drawer.
 
 We eat with a knife and fork.
-: Wir essen mit Messer und Gabel.
+: We eat with a knife and fork.
 
 The fork goes on the left.
-: Die Gabel kommt nach links.
+: The fork goes on the left.
 
 I need a spoon for my soup.
-: Ich brauche einen Löffel für meine Suppe.
+: I need a spoon for my soup.
 
 The pan is on the cooker.
-: Der Topf steht auf dem Herd.
+: The pan is on the cooker.
 
 The milk is in the fridge.
-: Die Milch ist im Kühlschrank.
+: The milk is in the fridge.
 
 The fridge is empty again.
-: Der Kühlschrank ist schon wieder leer.
+: The fridge is empty again.
 
 The cooker is still warm.
-: Der Herd ist noch warm.
+: The cooker is still warm.
 
 I cook in the evening.
-: Ich koche am Abend.
+: I cook in the evening.
 
 Who cooks on Sundays?
-: Wer kocht sonntags?
+: Who cooks on Sundays?
 
 My dad cooks very well.
-: Mein Vater kocht sehr gut.
+: My dad cooks very well.
 :::
 
 ## Summary

@@ -10,7 +10,7 @@ The coursebook is organised by level and then by category. Work through a level'
 
 ## How an article is laid out
 
-Every article follows the same order. A short lead paragraph says what the topic is. The teaching sections then explain it one step at a time, each with a few example sentences and their German translations. *Hear it in practice* collects around twenty sentences that use the topic. The *Summary* lists the key points and the most common mistakes, and *Related articles* links to other pages on the same subject.
+Every article follows the same order. A short lead paragraph says what the topic is. The teaching sections then explain it one step at a time, each with a few example sentences, each with its meaning in plain English. *Hear it in practice* collects around twenty sentences that use the topic. The *Summary* lists the key points and the most common mistakes, and *Related articles* links to other pages on the same subject.
 
 ## The marks in examples
 

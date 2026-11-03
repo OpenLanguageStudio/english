@@ -30,13 +30,13 @@ A name or a {term}`noun` takes the same form as its pronoun: *Tom is* like *he i
 
 :::{div} ol-examples
 I {verb}`am` Anna.
-: Ich bin Anna.
+: I am Anna.
 
 She {verb}`is` from Leeds.
-: Sie kommt aus Leeds.
+: She is from Leeds.
 
 They {verb}`are` my friends.
-: Das sind meine Freunde.
+: They are my friends.
 :::
 
 ## Questions and short answers
@@ -47,13 +47,13 @@ A question swaps the subject and the verb: *You are tired* becomes *Are you tire
 
 :::{div} ol-examples
 {verb}`Are` you a student? Yes, I {verb}`am`.
-: Bist du Student? Ja.
+: Are you a student? Yes, I am (a student).
 
 {verb}`Is` he at home? No, he {verb}`isn't`.
-: Ist er zu Hause? Nein.
+: Is he at home? No, he is not (at home).
 
 Where {verb}`is` the station?
-: Wo ist der Bahnhof?
+: Where is the station (in this town)?
 :::
 
 :::{note}
@@ -68,30 +68,30 @@ A short answer with *yes* always uses the full form: *Yes, I am*, never *Yes, I'
 
 :::{div} ol-examples
 I am {verb}`not` hungry.
-: Ich habe keinen Hunger.
+: I am not hungry.
 
 It is {verb}`not` far.
-: Es ist nicht weit.
+: It is not far.
 
 We {verb}`aren't` ready.
-: Wir sind nicht fertig.
+: We are not ready.
 :::
 
 ## When English uses *be*
 
-*Be* says who someone is, what they do, where something is and how someone feels. English also uses *be* for age, where German uses *sein* too, and for being hungry, thirsty, cold or right, where German often uses *haben*.
+*Be* says who someone is, what they do, where something is and how someone feels. English also uses *be* for age, and for being hungry, thirsty, cold or right. Many languages use *have* for these, but English uses *be*.
 
 **Examples:**
 
 :::{div} ol-examples
 She {verb}`is` a nurse.
-: Sie ist Krankenschwester.
+: She is a nurse.
 
 I {verb}`am` twenty-five.
-: Ich bin fünfundzwanzig.
+: I am twenty-five years old.
 
 We {verb}`are` cold.
-: Uns ist kalt.
+: We feel cold.
 :::
 
 :::{admonition} Common mistakes
@@ -112,70 +112,70 @@ We {verb}`are` cold.
 :tags: be, present
 
 I'm Anna.
-: Ich bin Anna.
+: I am Anna.
 
 I'm from Leeds.
-: Ich komme aus Leeds.
+: I am from Leeds.
 
 She's a nurse.
-: Sie ist Krankenschwester.
+: She is a nurse.
 
 He's my brother.
-: Er ist mein Bruder.
+: He is my brother.
 
 It's cold today.
-: Es ist kalt heute.
+: It is cold today.
 
 We're in the kitchen.
-: Wir sind in der Küche.
+: We are in the kitchen.
 
 They're my friends.
-: Das sind meine Freunde.
+: They are my friends.
 
 You're late.
-: Du bist spät dran.
+: You are late.
 
 Are you a student?
-: Bist du Student?
+: Are you a student?
 
 Yes, I am.
-: Ja.
+: Yes, I am (a student).
 
 Is he at home?
-: Ist er zu Hause?
+: Is he at home?
 
 No, he isn't.
-: Nein.
+: No, he is not (at home).
 
 Where is the station?
-: Wo ist der Bahnhof?
+: Where is the station (in this town)?
 
 How old are you?
-: Wie alt bist du?
+: How old are you?
 
 I'm twenty-five.
-: Ich bin fünfundzwanzig.
+: I am twenty-five years old.
 
 I'm not hungry.
-: Ich habe keinen Hunger.
+: I am not hungry.
 
 It isn't far.
-: Es ist nicht weit.
+: It is not far.
 
 We aren't ready.
-: Wir sind nicht fertig.
+: We are not ready.
 
 Are you cold?
-: Ist dir kalt?
+: Do you feel cold?
 
 My parents are in Spain.
-: Meine Eltern sind in Spanien.
+: My parents are in Spain.
 
 The coffee is hot.
-: Der Kaffee ist heiß.
+: The coffee is hot.
 
 Is it your phone?
-: Ist das dein Handy?
+: Is this phone yours?
 :::
 
 ## Summary

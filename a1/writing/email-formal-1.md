@@ -48,12 +48,12 @@ Could you please send me some information? How many hours are the lessons every 
 Thank you very much.
 Kind regards,
 Paul Wagner
-: Betreff: Englischkurs im Juli.
-: Sehr geehrte Damen und Herren,
-: mein Name ist Paul Wagner, und ich komme aus Hamburg in Deutschland. Ich möchte im Juli einen Englischkurs an Ihrer Schule machen. Ich bin Anfänger.
-: Könnten Sie mir bitte einige Informationen schicken? Wie viele Stunden Unterricht gibt es jeden Tag? Wie viel kostet der Kurs? Gibt es ein Zimmer bei einer Familie in der Nähe der Schule?
-: Vielen Dank.
-: Mit freundlichen Grüßen
+: Subject: An English course in July.
+: Dear Sir or Madam (a formal greeting when the name is not known),
+: My name is Paul Wagner and I am from Hamburg in Germany. I want to do an English course at your school in July. I am a beginner.
+: Please can you send me some information? How many hours of lessons are there every day? What is the price of the course? Can I stay with a family near the school?
+: Thank you very much.
+: Kind regards (a polite formal goodbye),
 : Paul Wagner
 :::
 
@@ -63,15 +63,15 @@ The formal frame, ready to reuse for any request:
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Dear Sir or Madam, \| Sehr geehrte Damen und Herren,` | when the name is not known |
-| {stack}`Dear Ms Smith, \| Sehr geehrte Frau Smith,` | when the name is known |
-| {stack}`My name is … \| Mein Name ist …` | first line: who is writing |
-| {stack}`I would like to … \| Ich möchte …` | polite way to say what is wanted |
-| {stack}`Could you please …? \| Könnten Sie bitte …?` | polite request |
-| {stack}`How much does … cost? \| Wie viel kostet …?` | asking about a price |
-| {stack}`Thank you very much. \| Vielen Dank.` | before the goodbye |
-| {stack}`Kind regards, \| Mit freundlichen Grüßen,` | the usual formal goodbye |
-| {stack}`Yours faithfully, \| Hochachtungsvoll,` | very formal, after *Dear Sir or Madam* |
+| {stack}`Dear Sir or Madam, \| Dear Sir or Madam,` | when the name is not known |
+| {stack}`Dear Ms Smith, \| Dear Ms Smith,` | when the name is known |
+| {stack}`My name is … \| My name is …` | first line: who is writing |
+| {stack}`I would like to … \| I want to … (polite)` | polite way to say what is wanted |
+| {stack}`Could you please …? \| Please can you …? (polite)` | polite request |
+| {stack}`How much does … cost? \| What is the price of …?` | asking about a price |
+| {stack}`Thank you very much. \| Thank you very much.` | before the goodbye |
+| {stack}`Kind regards, \| A polite formal goodbye` | the usual formal goodbye |
+| {stack}`Yours faithfully, \| A very formal goodbye, when the name is not known` | very formal, after *Dear Sir or Madam* |
 
 ## Summary
 

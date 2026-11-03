@@ -12,7 +12,7 @@ myst:
 
 The present simple is the English {term}`present tense` for habits, facts and likes: *I work in a shop*, *She likes tea*. It also covers how questions and negatives are made with *do* and *does*.
 
-The {term}`verb` stays in its basic form, the {term}`infinitive` without *to*, for every person except *he*, *she* and *it*. Those three add *-s*: *I work*, but *she works*. Questions and negatives need the {term}`auxiliary verb` *do*, a helper that carries the *-s* instead of the main verb. So *She works* becomes *Does she work?* and *She doesn't work*. German has no helper like this, which makes *do* the hardest part for German speakers.
+The {term}`verb` stays in its basic form, the {term}`infinitive` without *to*, for every person except *he*, *she* and *it*. Those three add *-s*: *I work*, but *she works*. Questions and negatives need the {term}`auxiliary verb` *do*, a helper that carries the *-s* instead of the main verb. So *She works* becomes *Does she work?* and *She doesn't work*. Many languages have no helper like this, which makes *do* the hardest part for many learners.
 
 ## The forms: *work* and *works*
 
@@ -30,13 +30,13 @@ A consonant before *-y* changes it to *-ies*: *study*, *she studies*. *Have* is 
 
 :::{div} ol-examples
 I {verb}`live` in Bristol.
-: Ich wohne in Bristol.
+: I live in Bristol.
 
 She {verb}`works` in a café.
-: Sie arbeitet in einem Café.
+: She works in a café.
 
 He {verb}`goes` to school by bus.
-: Er fährt mit dem Bus zur Schule.
+: He goes to school by bus.
 :::
 
 ## Questions with *do* and *does*
@@ -47,13 +47,13 @@ A question puts *do* or *does* before the {term}`subject`, and the main verb goe
 
 :::{div} ol-examples
 {verb}`Do` you like coffee? Yes, I do.
-: Magst du Kaffee? Ja.
+: Do you like coffee? Yes, I like coffee.
 
 {verb}`Does` she speak German? No, she doesn't.
-: Spricht sie Deutsch? Nein.
+: Does she speak German? No, she does not speak German.
 
 Where {verb}`do` they live?
-: Wo wohnen sie?
+: Where do they live?
 :::
 
 ## Negatives with *don't* and *doesn't*
@@ -64,30 +64,30 @@ Where {verb}`do` they live?
 
 :::{div} ol-examples
 I {verb}`don't` eat meat.
-: Ich esse kein Fleisch.
+: I do not eat meat.
 
 He {verb}`doesn't` drive.
-: Er fährt nicht Auto.
+: He does not drive a car.
 
 We {verb}`don't` work on Sundays.
-: Sonntags arbeiten wir nicht.
+: We do not work on Sundays.
 :::
 
 ## When English uses the present simple
 
-The present simple is for habits, routines, facts and likes. Words like *every day*, *usually* and *on Mondays* often go with it. Something happening right now uses a different form, *I'm reading*, where German says *ich lese* for both.
+The present simple is for habits, routines, facts and likes. Words like *every day*, *usually* and *on Mondays* often go with it. Something happening right now uses a different form, *I'm reading*, even where other languages use one form for both.
 
 **Examples:**
 
 :::{div} ol-examples
 I {verb}`drink` tea every morning.
-: Ich trinke jeden Morgen Tee.
+: I drink tea every morning.
 
 The shop {verb}`opens` at nine.
-: Der Laden öffnet um neun.
+: The shop opens at nine.
 
 She {verb}`loves` music.
-: Sie liebt Musik.
+: She loves music.
 :::
 
 :::{admonition} Common mistakes
@@ -108,64 +108,64 @@ She {verb}`loves` music.
 :tags: present simple, do
 
 I live in Bristol.
-: Ich wohne in Bristol.
+: I live in Bristol.
 
 She works in a café.
-: Sie arbeitet in einem Café.
+: She works in a café.
 
 He goes to school by bus.
-: Er fährt mit dem Bus zur Schule.
+: He goes to school by bus.
 
 We play football on Saturdays.
-: Samstags spielen wir Fußball.
+: We play football on Saturdays.
 
 My brother watches TV every evening.
-: Mein Bruder sieht jeden Abend fern.
+: My brother watches television every evening.
 
 She studies English.
-: Sie lernt Englisch.
+: She studies English.
 
 He has two sisters.
-: Er hat zwei Schwestern.
+: He has two sisters.
 
 The shop opens at nine.
-: Der Laden öffnet um neun.
+: The shop opens at nine.
 
 I drink tea every morning.
-: Ich trinke jeden Morgen Tee.
+: I drink tea every morning.
 
 Do you like coffee?
-: Magst du Kaffee?
+: Do you like coffee?
 
 Yes, I do.
-: Ja.
+: Yes, I like coffee.
 
 Does she speak German?
-: Spricht sie Deutsch?
+: Does she speak German?
 
 No, she doesn't.
-: Nein.
+: No, she does not speak German.
 
 Where do they live?
-: Wo wohnen sie?
+: Where do they live?
 
 What time does the train leave?
-: Wann fährt der Zug ab?
+: When does the train leave?
 
 I don't eat meat.
-: Ich esse kein Fleisch.
+: I do not eat meat.
 
 He doesn't drive.
-: Er fährt nicht Auto.
+: He does not drive a car.
 
 We don't work on Sundays.
-: Sonntags arbeiten wir nicht.
+: We do not work on Sundays.
 
 She loves music.
-: Sie liebt Musik.
+: She loves music.
 
 They usually walk to work.
-: Sie gehen normalerweise zu Fuß zur Arbeit.
+: They normally go to work on foot.
 :::
 
 ## Summary

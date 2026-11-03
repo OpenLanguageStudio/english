@@ -12,7 +12,6 @@ Open Language - English is open, and anyone can help improve it. The most useful
 
 - Learners can say where an explanation was unclear, or which topic they looked for and did not find.
 - Native English speakers can check that the example sentences sound natural.
-- German speakers can check that the translations are right.
 - Teachers can review whether a page fits its level and teaches what learners need.
 
 ## Report a problem or ask for an article

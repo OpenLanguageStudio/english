@@ -24,7 +24,8 @@ The English coursebook for Open Language. Content only: articles in the level di
 ## What this repository adds
 
 - **Variety.** British English: *flat*, *colour*, *the bill*, *trousers*. Name the American word in a note where a learner will meet it often.
-- **Translations are in German.** The language taught and the prose are both English, so every translation line, and the part after ` | ` in a `stack` cell, is German. The engine still calls this field "English" in places (`:title-en:`, the `Translation` entry in its `CONTEXT.md`); the translation language is an open design question, see the README.
+- **Translations are in English.** A coursebook's translations are always in the language it is written in, and this one is written in English. A translation line, and the part after ` | ` in a `stack` cell, gives the plain meaning: the sentence repeated when it is already plain, the full form or a gloss when it is idiomatic or contracted (*Cheers.* : *Thank you.*). In a vocabulary table it is a short dictionary meaning (*a plate \| a flat dish for food*).
+- **No comparisons with another language.** The coursebook is for any learner, so prose never assumes the reader speaks German or anything else.
 - **English words in prose are in italics** when they are the words being taught (*is*, *a*, *the*), so they stand out from the explanation around them.
 - **Grammar file names** are in English, as the language taught.
 - **Model articles.** Grammar: `a1/grammar/the-verb-be.md`. Concepts: `a1/concepts/introducing-yourself.md`. Writing: `a1/writing/email-informal-1.md`. Vocabulary: `a1/vocabulary/in-the-kitchen-1.md`.

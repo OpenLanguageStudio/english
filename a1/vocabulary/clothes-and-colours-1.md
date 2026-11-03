@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    description: "A1 vocabulary: clothes and colours 1. Everyday English clothes words and the basic colours, with German translations and example sentences."
+    description: "A1 vocabulary: clothes and colours 1. Everyday English clothes words and the basic colours and example sentences."
     keywords: "english, a1, vocabulary, clothes, colours, clothes in english, colours in english, shirt, trousers, red, blue"
     "property=og:title": "Clothes and Colours 1"
-    "property=og:description": "A1 vocabulary: clothes and colours 1. Everyday English clothes words and the basic colours, with German translations and example sentences."
+    "property=og:description": "A1 vocabulary: clothes and colours 1. Everyday English clothes words and the basic colours and example sentences."
     "property=og:type": "article"
     author: "Open Language - English"
 ---
@@ -18,20 +18,20 @@ A colour is an {term}`adjective`, and in English it always stands before the {te
 
 | Word | Notes |
 |---|---|
-| {stack}`a shirt \| das Hemd` | plural *shirts* |
-| {stack}`a T-shirt \| das T-Shirt` | plural *T-shirts* |
-| {stack}`a jumper \| der Pullover` | plural *jumpers*; American English *a sweater* |
-| {stack}`a jacket \| die Jacke` | plural *jackets* |
-| {stack}`a dress \| das Kleid` | plural *dresses* |
-| {stack}`trousers \| die Hose` | always plural; American English *pants* |
-| {stack}`jeans \| die Jeans` | always plural |
-| {stack}`shoes \| die Schuhe` | singular *a shoe* |
-| {stack}`red \| rot` | |
-| {stack}`blue \| blau` | |
-| {stack}`green \| grün` | |
-| {stack}`black \| schwarz` | |
-| {stack}`white \| weiß` | |
-| {stack}`grey \| grau` | American English *gray* |
+| {stack}`a shirt \| a top with buttons and a collar` | plural *shirts* |
+| {stack}`a T-shirt \| a simple cotton top with short sleeves` | plural *T-shirts* |
+| {stack}`a jumper \| a warm top with sleeves` | plural *jumpers*; American English *a sweater* |
+| {stack}`a jacket \| a short coat` | plural *jackets* |
+| {stack}`a dress \| one piece of clothing for the top and legs` | plural *dresses* |
+| {stack}`trousers \| clothing for the legs` | always plural; American English *pants* |
+| {stack}`jeans \| blue cotton trousers` | always plural |
+| {stack}`shoes \| clothing for the feet` | singular *a shoe* |
+| {stack}`red \| the colour of blood` | |
+| {stack}`blue \| the colour of the sky` | |
+| {stack}`green \| the colour of grass` | |
+| {stack}`black \| the colour of the night` | |
+| {stack}`white \| the colour of snow` | |
+| {stack}`grey \| between black and white` | American English *gray* |
 
 ## Trousers and jeans are plural
 
@@ -46,58 +46,58 @@ A colour is an {term}`adjective`, and in English it always stands before the {te
 :tags: clothes, colours
 
 I'm wearing a white shirt.
-: Ich trage ein weißes Hemd.
+: I'm wearing a white shirt.
 
 His shirt is blue.
-: Sein Hemd ist blau.
+: His shirt is blue.
 
 She has a red T-shirt.
-: Sie hat ein rotes T-Shirt.
+: She has a red T-shirt.
 
 This jumper is very warm.
-: Dieser Pullover ist sehr warm.
+: This jumper is very warm.
 
 My grey jumper is in the wardrobe.
-: Mein grauer Pullover ist im Schrank.
+: My grey jumper is in the wardrobe.
 
 Where is my black jacket?
-: Wo ist meine schwarze Jacke?
+: Where is my black jacket?
 
 It's cold, so take a jacket.
-: Es ist kalt, also nimm eine Jacke mit.
+: It is cold, so take a jacket with you.
 
 She's wearing a green dress.
-: Sie trägt ein grünes Kleid.
+: She's wearing a green dress.
 
 The dress is too long.
-: Das Kleid ist zu lang.
+: The dress is too long.
 
 My trousers are black.
-: Meine Hose ist schwarz.
+: My trousers are black.
 
 I need a pair of trousers for work.
-: Ich brauche eine Hose für die Arbeit.
+: I need a pair of trousers for work.
 
 These jeans are new.
-: Diese Jeans ist neu.
+: These jeans are new.
 
 He always wears blue jeans.
-: Er trägt immer blaue Jeans.
+: He always wears blue jeans.
 
 My shoes are under the bed.
-: Meine Schuhe sind unter dem Bett.
+: My shoes are under the bed.
 
 I like your white shoes.
-: Mir gefallen deine weißen Schuhe.
+: I like your white shoes.
 
 The sky is grey today.
-: Der Himmel ist heute grau.
+: The sky is grey today.
 
 Her favourite colour is green.
-: Ihre Lieblingsfarbe ist Grün.
+: Her favourite colour is green.
 
 Red or blue?
-: Rot oder blau?
+: Do you want red or blue?
 :::
 
 ## Summary

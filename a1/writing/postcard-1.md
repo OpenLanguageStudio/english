@@ -42,10 +42,10 @@ Greetings from Cornwall! We are in a small hotel by the sea in St Ives. The weat
 Wish you were here!
 Love,
 Maria
-: Liebe Jane,
-: viele Grüße aus Cornwall! Wir sind in einem kleinen Hotel am Meer in St Ives. Das Wetter ist sonnig und warm, und das Meer ist wunderschön. Jeden Morgen schwimmen wir, und am Nachmittag gehen wir am Strand spazieren. Das Essen ist sehr gut, und der Fisch ist jeden Tag frisch. Wir kommen am Samstag nach Hause.
-: Schade, dass du nicht hier bist!
-: Alles Liebe,
+: Dear Jane,
+: Hello from Cornwall! We are in a small hotel next to the sea in St Ives. The weather is sunny and warm, and the sea is beautiful. We swim every morning, and in the afternoon we walk on the beach. The food is very good, and the fish is fresh every day. We come home on Saturday.
+: I wish you were here with me!
+: With love,
 : Maria
 :::
 
@@ -55,15 +55,15 @@ The postcard frame, ready for any holiday:
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Greetings from …! \| Viele Grüße aus …!` | the first line, with the place |
-| {stack}`We are in a … by the sea. \| Wir sind in einem … am Meer.` | where the writer is staying |
-| {stack}`The weather is sunny. \| Das Wetter ist sonnig.` | also *rainy*, *cold*, *hot* |
-| {stack}`Every morning we … \| Jeden Morgen …` | what happens each day |
-| {stack}`The food is very good. \| Das Essen ist sehr gut.` | a short opinion |
-| {stack}`We come home on … \| Wir kommen am … nach Hause.` | the day of return |
-| {stack}`Wish you were here! \| Schade, dass du nicht hier bist!` | fixed last line |
-| {stack}`See you soon, \| Bis bald,` | casual goodbye |
-| {stack}`Love, \| Alles Liebe,` | warm goodbye |
+| {stack}`Greetings from …! \| Hello from …!` | the first line, with the place |
+| {stack}`We are in a … by the sea. \| We are in a … next to the sea.` | where the writer is staying |
+| {stack}`The weather is sunny. \| The weather is sunny.` | also *rainy*, *cold*, *hot* |
+| {stack}`Every morning we … \| We … every morning.` | what happens each day |
+| {stack}`The food is very good. \| The food is very good.` | a short opinion |
+| {stack}`We come home on … \| We come home on …` | the day of return |
+| {stack}`Wish you were here! \| I wish you were here with me!` | fixed last line |
+| {stack}`See you soon, \| I hope to see you soon,` | casual goodbye |
+| {stack}`Love, \| With love (a warm goodbye)` | warm goodbye |
 
 ## Summary
 

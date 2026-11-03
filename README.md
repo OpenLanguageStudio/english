@@ -1,6 +1,6 @@
 # Open Language - English
 
-The English coursebook from Open Language: grammar, concepts, writing and vocabulary articles, each with listening examples. It starts at A1, with German translations.
+The English coursebook from Open Language: grammar, concepts, writing and vocabulary articles, each with listening examples. It starts at A1.
 
 ## Layout
 
@@ -35,10 +35,10 @@ New articles start from a template. `uv run ol templates` lists them and `uv run
 
 It is the second language repository, after German, so that the `open-language` package can be built and tested for more than one language. Its first job is to show where the package still assumes German. The questions it raises so far:
 
-- **Translation language.** The package treats a translation as English. Here the language taught is English, so the translations are in German. The app stores a translation per interface language, with English as the fallback (open-language-app ADR 0004), which does not fit a course whose language taught is English.
-- **Prose language.** The checks measure English prose: sentence length, stock openers, the reader addressed as "you". A course written for German speakers in German would need those checks per prose language.
-- **Italics in headings.** `ol validate` takes any heading word that appears in the examples but not in the prose as a word of the language taught, and asks for italics. When the language taught and the prose are both English, ordinary heading words such as *course* or *how* trip it, so some headings here are worded around it.
-- **`lang` attributes.** The `stack` role marks the phrase with the language code, but not the translation beneath it, so German text is served without `lang="de"`.
+- **Two languages per coursebook.** Every coursebook has a target language, the one taught, and a coursebook language, the one its prose and translations are written in. In German they are German and English; here both are English. The package only knows the first (`language_code`) and assumes the second is English: the `:title-en:` option, the `Translation` entry in its `CONTEXT.md`, the `english_filename` rule. The app's per-interface-language translations (open-language-app ADR 0004) are a separate question, still to be worked out.
+- **Prose checks per coursebook language.** The checks measure English prose: sentence length, stock openers, the reader addressed as "you". A coursebook written in another language needs them for that language.
+- **Italics in headings.** `ol validate` takes any heading word that appears in the examples but not in the prose as a word of the language taught, and asks for italics. When the target and coursebook languages are the same, ordinary heading words such as *course* or *how* trip it, so some headings here are worded around it.
+- **`lang` attributes.** Authors never declare a language: the `stack` role reads the target language from `open-language.yml` and tags the phrase with it. The translation beneath gets no tag, because the package has no coursebook language to give it.
 
 ## Reporting a problem
 
