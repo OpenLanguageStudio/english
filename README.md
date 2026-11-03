@@ -40,3 +40,7 @@ The people who read a coursebook find what its authors miss, and the Open Langua
 - **Missing a topic?** [Ask for an article](https://github.com/OpenLanguageStudio/english/issues/new/choose), with the topic and its level.
 - **Reading in the app?** Every page has a report button, which sends the report here.
 - **Finding it useful?** Star this repository and share a page with someone learning English. It is how other learners find it.
+
+## Licence
+
+The text of this coursebook, its articles, example sentences and translations, is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): it may be shared and adapted, with credit to Open Language and under the same licence. The audio recordings are not covered by this licence. All rights in them are reserved, and they may not be used to train AI.
